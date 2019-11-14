@@ -1,0 +1,15 @@
+.profile-picture{
+    margin: -5px;
+    justify-self: flex-end;
+    width: 70%;
+    bottom: -10px;
+    position: absolute;
+}
+
+
+/* Media Queries for 650px and over*/
+@media only screen and (min-width: 600px) {
+    .profile-picture{
+        width: 20em;
+    }
+  }
