@@ -1,3 +1,3 @@
-document.ontouchmove = function(event){
+document.body.addEventListener('touchmove', function(event) {
     event.preventDefault();
-}
+});
