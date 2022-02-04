@@ -1,2 +1,2 @@
 # ellinor.dev
-Simple site to use as my portfolio. 
+A very simple site I use as my portfolio. 
